@@ -1,0 +1,15 @@
+.form {
+    display: flex;
+    column-gap: 20px;
+    align-items: stretch;
+}
+
+.container_input {
+    display: flex;
+    flex-direction: column;
+}
+
+.form_btn {
+    padding: 2px 15px;
+    background-color: aquamarine;
+}
